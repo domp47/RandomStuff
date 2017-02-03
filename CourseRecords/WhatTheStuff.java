@@ -3,7 +3,7 @@ package CourseRecords;
 import BasicIO.*;
 //import 
 
-public class WhatTheFuck {
+public class WhatTheStuff {
 
  public static void main(String[] args) {
    BinaryDataFile b = new BinaryDataFile();
